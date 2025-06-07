@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Holly-A17
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning aws fundamentals
+- I have just gained AWS Cloud Practitioner Certification
+- 🌱 I’m currently studying for AWS Developer Associate Certification
 - 💞️ I’m looking to collaborate on aws projects
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
